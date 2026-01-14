@@ -1,0 +1,14 @@
+/Users/zacharywaldrip/IS413/Mission2Assignment/bin/Debug/net10.0/Mission2Assignment
+/Users/zacharywaldrip/IS413/Mission2Assignment/bin/Debug/net10.0/Mission2Assignment.deps.json
+/Users/zacharywaldrip/IS413/Mission2Assignment/bin/Debug/net10.0/Mission2Assignment.runtimeconfig.json
+/Users/zacharywaldrip/IS413/Mission2Assignment/bin/Debug/net10.0/Mission2Assignment.dll
+/Users/zacharywaldrip/IS413/Mission2Assignment/bin/Debug/net10.0/Mission2Assignment.pdb
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.AssemblyInfoInputs.cache
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.AssemblyInfo.cs
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.csproj.CoreCompileInputs.cache
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.dll
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/refint/Mission2Assignment.dll
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.pdb
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.genruntimeconfig.cache
+/Users/zacharywaldrip/IS413/Mission2Assignment/obj/Debug/net10.0/ref/Mission2Assignment.dll
