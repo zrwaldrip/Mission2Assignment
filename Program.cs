@@ -1,4 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
+// Zach Waldrip
+// Section 3
+
 namespace Mission2Assignment;
 
 internal class Program
